@@ -10,6 +10,6 @@ Usage : `python main.py`
 
 Select a umamusume to start. 
 
-![]("display/1.png")
+![image](display/1.png)
 
 when program capture the event, it will get the show the options effect.
